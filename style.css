@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #1673b9;
+}
+main {
+}
+table {
+  margin: auto;
+}
+input{
+  color: white;
+  text-align: center;
+  background-color: #1673b9;
+  border: 2px solid grey;
+  border-radius: 5px;
+  font-size: 70px;
+  width: 105px;
+  height: 105px;
+  align: center;
+  margin-bottom: 5px;
+}
+
+
+/*
+#e42d29
+#f4e109
+*/
